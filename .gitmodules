@@ -1,0 +1,3 @@
+[submodule "library"]
+	path = library
+	url = https://github.com/vinaymavi/vi_Ex1_submodule.git
